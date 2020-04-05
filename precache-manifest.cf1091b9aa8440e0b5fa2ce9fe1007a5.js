@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "491a3277dc071781e21f4d8040f9fd13",
+    "revision": "1e87f2646446d9f8ea58339f48f543e6",
     "url": "/Crio-Launch-Feb-2020-sakshijha0610/index.html"
   },
   {
-    "revision": "64fd8b3ad86371c4584f",
+    "revision": "89930cd61cb610771565",
     "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "3803f7c4ff49bff92ac0",
+    "revision": "e089a6cc9a2d611bcedb",
     "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "64fd8b3ad86371c4584f",
-    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/2.6287e179.chunk.js"
+    "revision": "89930cd61cb610771565",
+    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/2.81ab247a.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/2.6287e179.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/2.81ab247a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3803f7c4ff49bff92ac0",
-    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/main.b6203396.chunk.js"
+    "revision": "e089a6cc9a2d611bcedb",
+    "url": "/Crio-Launch-Feb-2020-sakshijha0610/static/js/main.01ed5ed8.chunk.js"
   },
   {
     "revision": "907a3ec5afc6c194d1a3",
